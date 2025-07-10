@@ -4,4 +4,5 @@ This project analyzes open-access EEG data from PhysioNet to investigate brain w
 
 # PhysioNet Dataset
 
-Abo Alzahab N, Di Iorio A, Apollonio L, Alshalak M, Gravina A, Antognoli L, Baldi M, Scalise L, Alchalabi B. Auditory evoked potential EEG-Biometric dataset (version 1.0.0). PhysioNet. 2021. RRID:SCR_007345. Available from: https://doi.org/10.13026/ps31-fc50
+- Abo Alzahab N, Di Iorio A, Apollonio L, Alshalak M, Gravina A, Antognoli L, Baldi M, Scalise L, Alchalabi B. Auditory evoked potential EEG-Biometric dataset (version 1.0.0). PhysioNet. 2021. RRID:SCR_007345. Available from: https://doi.org/10.13026/ps31-fc50
+- Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P.C., Mark, R., Mietus, J.E., Moody, G.B., Peng, C.K. and Stanley, H.E., 2000. PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220. RRID:SCR_007345.
